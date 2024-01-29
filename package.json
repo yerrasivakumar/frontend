@@ -1,5 +1,5 @@
 {
-  "proxy":"https://deploy-five-kappa.vercel.app/",
+  "proxy":"https://deploy-five-kappa.vercel.app",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
