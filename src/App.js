@@ -11,7 +11,7 @@ axios.defaults.withCredentials = true;
   const handleSubmit = (e) =>{
     e.preventDefault();
    
-      axios.post('https://deploy-five-kappa.vercel.app/user/userregistration',
+      axios.post('/user/userregistration',
       {
         "name":name,
         "email":email,
